@@ -1,0 +1,17 @@
+#public_header {
+  background: #353439;
+  text-align: center;
+}
+#public_header .cback {
+  width: 1.0666666666666667rem;
+  height: 1.1733333333333333rem;
+}
+#public_header .backimg {
+  background: url("../img/public_head_back.png") center no-repeat;
+}
+#public_header .head_tit {
+  line-height: 1.1733333333333333rem;
+  color: #ffffff;
+  font-size: 0.48rem;
+  width: calc(100% - 1.0666666666666667rem*2);
+}

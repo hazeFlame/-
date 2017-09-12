@@ -1,0 +1,41 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  text-decoration: none;
+  list-style: none;
+  border: none;
+  background: none;
+  color: none;
+  font-style: normal;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  /* Firefox */
+  -webkit-box-sizing: border-box;
+  /* Safari */
+}
+a:focus {
+  color: none;
+  text-decoration: none;
+}
+input:focus {
+  outline: none;
+}
+.fl {
+  float: left;
+}
+.fr {
+  float: right;
+}
+.ovf {
+  overflow: hidden;
+}
+.cl:after {
+  display: block;
+  clear: both;
+  content: "";
+  visibility: hidden;
+  height: 0;
+}
+.cl {
+  zoom: 1;
+}
