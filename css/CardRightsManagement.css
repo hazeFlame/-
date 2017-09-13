@@ -91,7 +91,7 @@
 }
 .N_Description{
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   padding:0 .27rem;
   align-items: center;
   border-top: 1px solid #ccc;

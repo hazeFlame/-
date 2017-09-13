@@ -1,0 +1,24 @@
+.N_Contentname_List{
+
+}
+.N_Contentname_List ul{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1.33rem 0 0 .57rem;
+}
+.N_Contentname_List li{
+  font-size: .37rem;
+  color: #666666;
+  text-align: center;
+  width: 47%;
+}
+.N_Contentname_List li img{
+  margin-bottom: .39rem;
+}
+.N_Contentname_List li:nth-child(1){
+  padding: .37rem 0 .8rem 0;
+  border-right: 1px solid #dcdcdc;
+}
+.N_Contentname_List li:nth-child(2){
+  padding: .37rem 0 .8rem 0;
+}
